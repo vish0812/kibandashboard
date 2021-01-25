@@ -1,0 +1,55 @@
+PUT products
+{
+  "settings": {
+    "number_of_shards": 2,
+    "number_of_replicas": 1
+    
+  }
+  
+}
+GET productsbycolour/_search
+PUT productsbycolour
+{
+  "settings": {
+    "number_of_shards": 2,
+    "number_of_replicas": 1
+    
+  }
+  
+}
+
+PUT customers
+{
+  "settings": {
+    "number_of_shards": 2,
+    "number_of_replicas": 1
+    
+  }
+  
+}
+
+
+
+PUT employees
+{
+  "settings": {
+    "number_of_shards": 2,
+    "number_of_replicas": 1
+    
+  }
+  
+}
+
+create sales index as below -- 
+
+
+PUT sales
+{
+  "settings": {
+    "number_of_shards": 2,
+    "number_of_replicas": 1
+    
+  }
+  
+}
+

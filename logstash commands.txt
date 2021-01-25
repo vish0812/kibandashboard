@@ -1,0 +1,1 @@
+C:\Users\Vishal\Downloads\logstash-7.10.2-windows-x86_64\logstash-7.10.2>C:\Users\Vishal\Downloads\logstash-7.10.2-windows-x86_64\logstash-7.10.2\bin\logstash -f C:\Users\Vishal\Downloads\logstash-7.10.2-windows-x86_64\logstash-7.10.2\config\casestudy.conf
